@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.*  # ignores .env.local, .env.development, etc.
+
+# Vite or other build tools
+dist/
+build/
+
+# Next.js (if used)
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
